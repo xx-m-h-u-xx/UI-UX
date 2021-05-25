@@ -1,7 +1,7 @@
 # UI-UX
 Portfolio of User Interfaces &amp; User Experience Design Work
 
-Here are the process I undertook when designing UI for `InfoVisuGen` webapp, a University research project in [Infographic Generation from Text](https://github.com/xx-m-h-u-xx/Generating-Infographics-from-Text/tree/main/Documentation/Design)
+Here are the process I undertook when designing UI for `InfoVisuGen` webapp, a Uni research project in [Infographic Generation from Text](https://github.com/xx-m-h-u-xx/Generating-Infographics-from-Text/tree/main/Documentation/Design)
 
 The `Design` repository includes:
   * `Brainstorming & Sketching` - transformed ideas into reality using pen & paper
