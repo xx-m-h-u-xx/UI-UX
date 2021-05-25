@@ -10,5 +10,5 @@ The `Design` repository includes:
   * `Style of Interface` - focuses on visual design (as well as additionally including service design)
   * `Wireframes` - low-detailed presentation of structure/description of user interaction with interface
   * `Mockups` - static representation of design
-  * `Clickable Prototypes` - highly-detailed representation of ideas turned into artifacts, simulating user interaction with interface
+  * `Fidelity CLicable Prototypes` - highly-detailed representation of ideas turned into artifacts, simulating user interaction with interface
   * `Animated UI Flow` - video recorded simulation of the user interaction with app
